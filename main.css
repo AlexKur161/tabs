@@ -1,0 +1,29 @@
+.tab {
+  background: green;
+  display: none;
+}
+
+.tab.show {
+  background: green;
+  display: block;
+}
+
+h2 {
+  color: #fff;
+}
+
+.show {
+  display: none;
+}
+
+.btntab {
+  background: grey;
+  width: 100px;
+  height: 40px;
+  outline: none;
+  border: none;
+}
+
+.btntab.active {
+  background: yellow;
+}/*# sourceMappingURL=main.css.map */
